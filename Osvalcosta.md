@@ -1,5 +1,4 @@
---MT Software --  
-                                                  
+Osvaldo costa                                                  
 
                                                              -- How to install Odoo 12 on Ubuntu 18.04 --
 
